@@ -12,41 +12,41 @@ Essas ferramentas se tornaram essenciais para os desenvolvedores, proporcionando
 Linguagens principais: C#, .NET e outras linguagens da Microsoft. 
 
 ### Utilidades: ###
-Autocompletar inteligente
-Refatoração de código avançada
-Depurador poderoso
-Integração com ferramentas da Microsoft
+    Autocompletar inteligente
+    Refatoração de código avançada
+    Depurador poderoso
+    Integração com ferramentas da Microsoft
 
 ## IntelliJ IDEA (JetBrains): ##
 Linguagens principais: Java, Kotlin, Scala e diversas outras linguagens.
 
 ### Utilidades: ### 
-Suporte a múltiplas linguagens
-Ferramentas de análise de código robustas
-Integração com frameworks populares
-Extenso conjunto de plugins
+    Suporte a múltiplas linguagens
+    Ferramentas de análise de código robustas
+    Integração com frameworks populares
+    Extenso conjunto de plugins
 
 ## Eclipse: ##
 Linguagens principais: Java e outras linguagens. 
 
 ### Utilidades: ###
-Grande comunidade de desenvolvedores
-Plugins extensíveis
-Suporte a diversas ferramentas de desenvolvimento
+    Grande comunidade de desenvolvedores
+    Plugins extensíveis
+    Suporte a diversas ferramentas de desenvolvimento
 
 ## WebStorm (JetBrains): ##
 Linguagens principais: HTML, CSS, JavaScript e outras tecnologias web. 
 
 ### Utilidades: ###
-Recursos específicos para desenvolvimento web
-Ferramentas de linting
-Integração com ferramentas de front-end
+    Recursos específicos para desenvolvimento web
+    Ferramentas de linting
+    Integração com ferramentas de front-end
 
 ## PyCharm (JetBrains): ##
 Linguagens principais: Python.
 
 ### Utilidades: ###
-Suporte completo à linguagem Python
-Ferramentas de análise de código para Python
-Integração com frameworks Python
-Depurador poderoso para Python
+    Suporte completo à linguagem Python
+    Ferramentas de análise de código para Python
+    Integração com frameworks Python
+    Depurador poderoso para Python
